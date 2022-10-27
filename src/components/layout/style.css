@@ -1,0 +1,6 @@
+.layout {
+    /* Layout PX max 1200 min 800 */
+    max-width: 1200px;
+    min-width: 800px;
+    margin: 0 auto;
+}
